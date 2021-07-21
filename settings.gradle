@@ -1,2 +1,3 @@
 rootProject.name = "Whats In TheFridge"
 include ':app'
+include ':core'
